@@ -1,0 +1,9 @@
+{
+  "name": "amberlings-online",
+  "version": "0.1.0-cbt",
+  "private": true,
+  "description": "Original Amberlings HTML game with isolated, server-authoritative Supabase online integration scaffold",
+  "scripts": {
+    "test": "node tests/check_html.cjs && node tests/bridge_smoke.cjs"
+  }
+}

@@ -1,0 +1,9 @@
+.env
+.env.*
+*.secret
+*.secret.*
+service-role-key.txt
+service_role.txt
+node_modules/
+*.log
+.DS_Store
